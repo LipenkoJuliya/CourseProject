@@ -66,6 +66,7 @@ namespace Редактор_файловых_иерархических_сртр�
 
         private async Task LoadDrivesAsync()
         {
+           //test
             // Get all drives
             DriveInfo[] drives = DriveInfo.GetDrives();
 
